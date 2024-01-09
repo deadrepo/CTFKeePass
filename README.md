@@ -11,7 +11,7 @@ How to Solve ?
 
 Extract the hash of the PDF file 
 -------------------
-- pdf2john '/home/kali/Desktop/CTFPdf/pay.pdf' > '/home/kali/Desktop/CTFPdf/hash.txt' 
+- `zip2john '/home/kali/Desktop/CTFPZIP/secret.zip' > '/home/kali/Desktop/CTFZIP/hash.txt' `
 
 Run John The Ripper 
 -------------------
