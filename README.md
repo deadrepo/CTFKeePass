@@ -4,7 +4,7 @@
 How to Solve ?
 -------------------
 
-- git clone `https://github.com/deadrepo/CTFZIP.git`
+- git clone `https://github.com/deadrepo/CTFKeePass.git`
 
 - git clone  `https://github.com/openwall/john.git`
 - cd Desktop/john/run
